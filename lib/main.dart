@@ -1,6 +1,6 @@
+import 'package:base_basic_flutter/routes/routes.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:x_equis/core/core.dart';
 
 void main() {
   runApp(const MyApp());

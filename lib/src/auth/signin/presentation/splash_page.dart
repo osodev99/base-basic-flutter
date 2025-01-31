@@ -1,5 +1,5 @@
+import 'package:base_basic_flutter/routes/routes.dart';
 import 'package:flutter/material.dart';
-import 'package:x_equis/core/core.dart';
 
 class SplashPage extends StatefulWidget {
   const SplashPage({super.key});

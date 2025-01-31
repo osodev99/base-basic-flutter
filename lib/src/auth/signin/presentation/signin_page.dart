@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:x_equis/core/core.dart';
+import 'package:base_basic_flutter/core/core.dart';
+import 'package:base_basic_flutter/routes/routes.dart';
 
 class SignInPage extends StatefulWidget {
   const SignInPage({super.key});
